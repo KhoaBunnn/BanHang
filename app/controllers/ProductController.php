@@ -362,7 +362,7 @@ class ProductController
             exit;
         }
         
-        include ROOT_PATH . 'app/views/product/orderConfirmation.php';
+        include ROOT_PATH . 'app/views/product/orderComfirmation.php';
     }
 
     public function list()
